@@ -46,7 +46,7 @@ I’m a **Computer Science and Engineering (CSE) student** with a strong interes
 - Improving my expertise in **web development** using **Django** for backend applications.
 
 ### 📫 How to reach me
-- Feel free to connect via [Email](mailto:your.email@example.com) or [LinkedIn](https://linkedin.com/in/your-profile).
+- Feel free to connect via [Email](mailto:mehedihasanshipat4@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/).
 
 Let’s connect, collaborate, and create amazing projects together! 😊
 
