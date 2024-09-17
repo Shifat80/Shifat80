@@ -1,7 +1,3 @@
-Here's your revised GitHub profile README:
-
----
-
 # 👋 Hi, I'm Shifat!
 
 I’m a **Computer Science and Engineering (CSE) student** with a strong interest in **Cybersecurity**, **Software Development**, and **Healthcare Applications**. I’m continuously learning, building projects, and exploring new fields. Welcome to my GitHub profile!
