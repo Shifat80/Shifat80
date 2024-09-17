@@ -1,5 +1,10 @@
-<h2 align="left">Hi 👋! My name is Shifat and I'm a student of computer science and Engineering, from Bangladesh</h2>
+Here's your revised GitHub profile README:
 
+---
+
+# 👋 Hi, I'm Shifat!
+
+I’m a **Computer Science and Engineering (CSE) student** with a strong interest in **Cybersecurity**, **Software Development**, and **Healthcare Applications**. I’m continuously learning, building projects, and exploring new fields. Welcome to my GitHub profile!
 ###
 
 <div align="left">
@@ -16,32 +21,33 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mehedihasanshipat4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/shine_like_shifu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://linktr.ee/mehedihasanshifat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-</div>
+### 🚀 About Me
+- 💻 I'm currently studying **CSE**, focusing on **Software Engineering** and **Cybersecurity**.
+- 🩺 I'm working on **healthcare-related projects**, especially **healthcare management systems** and **medical applications**.
+- 🌱 Currently expanding my skills through a **100-day Python Bootcamp**, diving into both beginner and intermediate topics.
+- 🔍 Learning **Penetration Testing** and developing my expertise in **Ethical Hacking**.
+- 📚 This semester, I'm studying **Numerical Analysis** and improving my understanding of **Computer Architecture** and **Data Structures**.
+- 🌐 Working on my **portfolio website** and **personal blog** to showcase my projects and write-ups.
 
-###
+### 🛠️ Technologies & Tools
+- **Languages**: Python, C++, Java, C#, SQL, HTML, CSS, JavaScript
+- **Frameworks & Tools**: Django, Tkinter, MySQL, Git, GitHub
+- **Other Interests**: GUI Applications, Desktop Software, Cybersecurity, Healthcare Management Systems
 
-<h2 align="left">Hello World!!</h2>
+### 🔭 Current Projects
+- **Prescription Writing Software**: A Python desktop app to create custom prescriptions and store patient data for future use.
+- **Typing Test Application**: A GUI-based Python application using Tkinter for offline typing practice with database support.
+- **Personal Blog**: Building a blog to share my thoughts and showcase my write-ups and coding projects.
+- **Portfolio Website**: Developing a portfolio website to highlight my web development and software engineering journey.
 
-###
+### 🌱 Learning Journey
+- Actively enhancing my skills in **Ethical Hacking** and **Penetration Testing**.
+- Building **real-world software solutions** for healthcare and cybersecurity.
+- Improving my expertise in **web development** using **Django** for backend applications.
 
-<div align="left">
-</div>
+### 📫 How to reach me
+- Feel free to connect via [Email](mailto:your.email@example.com) or [LinkedIn](https://linkedin.com/in/your-profile).
 
-###
+Let’s connect, collaborate, and create amazing projects together! 😊
 
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFxa2huNzBzOTh5MTVmaDdzaHc5bGhvMXJ2YmF2ZncwZWZwbmt6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
-
-###
+---
