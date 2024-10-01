@@ -26,13 +26,12 @@ I’m a **Computer Science and Engineering (CSE) student** with a strong interes
 - 🌐 Working on my **portfolio website** and **personal blog** to showcase my projects and write-ups.
 
 ### 🛠️ Technologies & Tools
-- **Languages**: Python, C++, Java, C#, SQL, HTML, CSS, JavaScript
+- **Languages**: Python, C++, Java,SQL, HTML, CSS, JavaScript
 - **Frameworks & Tools**: Django, Tkinter, MySQL, Git, GitHub
 - **Other Interests**: GUI Applications, Desktop Software, Cybersecurity, Healthcare Management Systems
 
 ### 🔭 Current Projects
 - **Prescription Writing Software**: A Python desktop app to create custom prescriptions and store patient data for future use.
-- **Typing Test Application**: A GUI-based Python application using Tkinter for offline typing practice with database support.
 - **Personal Blog**: Building a blog to share my thoughts and showcase my write-ups and coding projects.
 - **Portfolio Website**: Developing a portfolio website to highlight my web development and software engineering journey.
 
