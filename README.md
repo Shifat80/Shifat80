@@ -19,10 +19,10 @@ I’m a **Computer Science and Engineering (CSE) student** with a strong interes
 
 ### 🚀 About Me
 - 💻 I'm currently studying **CSE**, focusing on **Software Engineering** and **Cybersecurity**.
-- 🩺 I'm working on **healthcare-related projects**, especially **healthcare management systems** and **medical applications**.
+- 🩺 I'm working on **DocuRx**, DocuRx is a web application that streamlines prescription creation for healthcare professionals, with a dynamic and customizable prescription template in a modern UI.
 - 🌱 Currently expanding my skills through a **100-day Python Bootcamp**, diving into both beginner and intermediate topics.
 - 🔍 Learning **Penetration Testing** and developing my expertise in **Ethical Hacking**.
-- 📚 This semester, I'm studying **Numerical Analysis** and improving my understanding of **Computer Architecture** and **Data Structures**.
+- 📚 This semester, I'm studying **Numerical Analysis** and improving my understanding of **Computer Architecture** and **Algorithm**.
 - 🌐 Working on my **portfolio website** and **personal blog** to showcase my projects and write-ups.
 
 ### 🛠️ Technologies & Tools
