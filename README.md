@@ -36,7 +36,7 @@ I’m a **Computer Science and Engineering (CSE) student** with a strong interes
 
 ### 🛠️ Technologies & Tools
 - **Languages**: Python, C++, Java, SQL, HTML, CSS, JavaScript
-- **Frameworks & Tools**: Django, Tkinter, MySQL, Git, GitHub, Tailwind CSS, React
+- **Frameworks & Tools**: Node.js, MySQL, Git, GitHub, Tailwind CSS, React
 - **Other Interests**: GUI Applications, Desktop Software, Cybersecurity, Healthcare Management Systems
 
 ### 🔭 Current Projects
