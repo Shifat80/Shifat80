@@ -19,9 +19,9 @@ I'm a **Computer Science and Engineering (CSE)** student passionate about:
 - 🩺 Building impactful **Healthcare Applications**
 
 📌 I love learning by building! Currently:
-- 👨‍⚕️ Developing **DocuRx**, a prescription web app with customizable templates (Bangla + English).
-- 💻 Working on my **portfolio website** and **technical blog** to share knowledge and showcase projects.
-- 📚 Studying **Numerical Analysis**, **Computer Architecture**, and **Algorithms**.
+- 👨‍⚕️ Developing **DocuRx**, a prescription web app with customizable templates (Bangla + English)
+- 🌐 Building my **portfolio website** and **technical blog** to share projects and write-ups
+- 📚 Studying **Numerical Analysis**, **Computer Architecture**, and **Algorithms**
 
 ---
 
@@ -40,37 +40,38 @@ I'm a **Computer Science and Engineering (CSE)** student passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
 </div>
 
 ---
 
-## 🚧 Current Projects
+## 🔭 Current Projects
 
-- 🩺 **DocuRx** – Full-stack healthcare app to manage patients and prescriptions with PDF export (Bangla + English).
-- 🌐 **Portfolio Website** – A modern React site with 3D UI and chatbot to showcase my work.
-- 📝 **Personal Blog** – Technical blog to share write-ups, tutorials, and cybersecurity research.
+- 🩺 **DocuRx** – Full-stack healthcare app to manage patients and prescriptions with PDF export (Bangla + English)
+- 🌐 **Portfolio Website** – A modern React site with 3D UI and chatbot to showcase my work
+- 📝 **Personal Blog** – Technical blog to share write-ups, tutorials, and cybersecurity research
 
 ---
 
 ## 🌱 Learning Journey
 
-- 💻 Enhancing **MERN stack** and real-world software design skills.
-- 🔍 Practicing **CTFs**, **Bug Bounties**, and building security tools.
-- 🛠️ Exploring **AI + Node.js integration** and real-time applications.
+- 💻 Enhancing **MERN stack** and real-world software design skills
+- 🔍 Practicing **CTFs**, **Bug Bounties**, and building security tools
+- 🤖 Exploring **AI + Node.js integration** and real-time applications
 
 ---
 
-## 📫 Contact Me
+## 📫 How to reach me
 
-📧 [Email Me](mailto:mehedihasanshipat4@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/)
+- 📧 [Email](mailto:mehedihasanshipat4@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+for+impact+🚀;Full-Stack+Dev+%7C+Cybersecurity+Learner+%F0%9F%92%BB;Let’s+collaborate+on+tech+that+matters+%F0%9F%A4%9D" alt="Typing SVG" />
+  <em>Let’s connect, collaborate, and build something impactful! 😊</em>
 </p>
