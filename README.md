@@ -1,55 +1,76 @@
-# 👋 Hi, I'm Shifat!
+<!-- Hero Banner with Animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+</p>
 
-I’m a **Computer Science and Engineering (CSE) student** with a strong interest in **Cybersecurity**, **Software Development**, and **Healthcare Applications**. I’m continuously learning, building projects, and exploring new fields. Welcome to my GitHub profile!
-###
+<h1 align="center">👋 Hi, I'm Shifat!</h1>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+<p align="center">
+  🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🔐 Cybersecurity Explorer | 🩺 Healthcare Tech Innovator
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Science and Engineering (CSE)** student passionate about:
+- 🌐 **Full-stack Web Development** with the **MERN stack** (MongoDB, Express.js, React, Node.js)
+- 🔐 **Cybersecurity & Ethical Hacking**
+- 🩺 Building impactful **Healthcare Applications**
+
+📌 I love learning by building! Currently:
+- 👨‍⚕️ Developing **DocuRx**, a prescription web app with customizable templates (Bangla + English).
+- 💻 Working on my **portfolio website** and **technical blog** to share knowledge and showcase projects.
+- 📚 Studying **Numerical Analysis**, **Computer Architecture**, and **Algorithms**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🚀 MERN Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 </div>
 
+### 🧰 Other Tools & Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+</div>
 
-###
+---
 
-### 🚀 About Me
-- 💻 I'm currently studying **CSE**, focusing on **Software Engineering** and **Cybersecurity**.
-- 🩺 I'm working on **DocuRx**, a web application that streamlines prescription creation for healthcare professionals with a dynamic and customizable UI.
-- 🌱 Expanding my skills through a **100-day Python Bootcamp**, covering beginner to intermediate topics.
-- 🔍 Learning **Penetration Testing** and developing expertise in **Ethical Hacking**.
-- 📚 This semester, I'm studying **Numerical Analysis**, **Computer Architecture**, and **Algorithms**.
-- 🌐 Building my **portfolio website** and **personal blog** to showcase projects and write-ups.
+## 🚧 Current Projects
 
-### 🛠️ Technologies & Tools
-- **Languages**: Python, C++, Java, SQL, HTML, CSS, JavaScript
-- **Frameworks & Tools**: Node.js, MySQL, Git, GitHub, Tailwind CSS, React
-- **Other Interests**: GUI Applications, Desktop Software, Cybersecurity, Healthcare Management Systems
+- 🩺 **DocuRx** – Full-stack healthcare app to manage patients and prescriptions with PDF export (Bangla + English).
+- 🌐 **Portfolio Website** – A modern React site with 3D UI and chatbot to showcase my work.
+- 📝 **Personal Blog** – Technical blog to share write-ups, tutorials, and cybersecurity research.
 
-### 🔭 Current Projects
-- **Prescription Writing Webapp**: a web application that streamlines prescription creation for healthcare professionals, with a dynamic and customizable prescription template in a modern UI.
-- **Personal Blog**: Building a blog to share my thoughts and showcase my coding projects.
-- **Portfolio Website**: Developing a website to highlight my web development and software engineering journey.
+---
 
-### 🌱 Learning Journey
-- Enhancing skills in **Ethical Hacking** and **Penetration Testing**.
-- Creating **real-world software solutions** for healthcare and cybersecurity.
-- Deepening expertise in **web development** using **Django**.
+## 🌱 Learning Journey
 
-### 📫 How to reach me
-- Connect via [Email](mailto:mehedihasanshipat4@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/).
+- 💻 Enhancing **MERN stack** and real-world software design skills.
+- 🔍 Practicing **CTFs**, **Bug Bounties**, and building security tools.
+- 🛠️ Exploring **AI + Node.js integration** and real-time applications.
 
-Let’s connect, collaborate, and create amazing projects together! 😊
+---
+
+## 📫 Contact Me
+
+📧 [Email Me](mailto:mehedihasanshipat4@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+for+impact+🚀;Full-Stack+Dev+%7C+Cybersecurity+Learner+%F0%9F%92%BB;Let’s+collaborate+on+tech+that+matters+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
