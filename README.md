@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Shifat!</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🔐 Cybersecurity Explorer | 🩺 Healthcare Tech Innovator
+  🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🔐 Cybersecurity Explorer 
 </p>
 
 ---
@@ -19,9 +19,9 @@ I'm a **Computer Science and Engineering (CSE)** student passionate about:
 - 🩺 Building impactful **Healthcare Applications**
 
 📌 I love learning by building! Currently:
-- 👨‍⚕️ Developing **DocuRx**, a prescription web app with customizable templates (Bangla + English)
+- 👨‍⚕️ Developing **DocuRx**, a prescription web app with customizable templates 
 - 🌐 Building my **portfolio website** and **technical blog** to share projects and write-ups
-- 📚 Studying **Numerical Analysis**, **Computer Architecture**, and **Algorithms**
+- 📚 Studying **Operating System**, **Advanced Programming in java**, and **Algorithms**
 
 ---
 
@@ -51,14 +51,13 @@ I'm a **Computer Science and Engineering (CSE)** student passionate about:
 
 - 🩺 **DocuRx** – Full-stack healthcare app to manage patients and prescriptions with PDF export (Bangla + English)
 - 🌐 **Portfolio Website** – A modern React site with 3D UI and chatbot to showcase my work
-- 📝 **Personal Blog** – Technical blog to share write-ups, tutorials, and cybersecurity research
+
 
 ---
 
 ## 🌱 Learning Journey
 
 - 💻 Enhancing **MERN stack** and real-world software design skills
-- 🔍 Practicing **CTFs**, **Bug Bounties**, and building security tools
 - 🤖 Exploring **AI + Node.js integration** and real-time applications
 
 ---
