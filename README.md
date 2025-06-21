@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Shifat!</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🔐 Cybersecurity Explorer 
+  🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🤖 AI/ML
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 I'm a **Computer Science and Engineering (CSE)** student passionate about:
 - 🌐 **Full-stack Web Development** with the **MERN stack** (MongoDB, Express.js, React, Node.js)
-- 🔐 **Cybersecurity & Ethical Hacking**
+- 🤖 **AI/ML**
 - 🩺 Building impactful **Healthcare Applications**
 
 📌 I love learning by building! Currently:
