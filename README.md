@@ -1,6 +1,6 @@
 <!-- Hero Banner with Animated GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Coding Animation">
 </p>
 
 <h1 align="center">👋 Hi, I'm Shifat!</h1>
