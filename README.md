@@ -1,4 +1,5 @@
 <!-- Hero Banner with Animated GIF -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 </p>
@@ -6,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm Shifat!</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💻 MERN Stack Enthusiast | 🤖 AI/ML
+  🚀 Full-Stack Developer | 💻 MERN & React Native | 🤖 AI/ML Explorer
 </p>
 
 ---
@@ -14,58 +15,89 @@
 ## 🧑‍💻 About Me
 
 I'm a **Computer Science and Engineering (CSE)** student passionate about:
-- 🌐 **Full-stack Web Development** with the **MERN stack** (MongoDB, Express.js, React, Node.js)
-- 🤖 **AI/ML**
-- 🩺 Building impactful **Healthcare Applications**
+
+* 🌐 **Full-stack Web Development** with the **MERN stack** (MongoDB, Express.js, React, Node.js)
+* 📱 **Mobile App Development** using **React Native (Android)**
+* 🤖 **AI/ML**, automation & intelligent systems
+* 🩺 Building impactful **Healthcare & Campus solutions**
 
 📌 I love learning by building! Currently:
-- 👨‍⚕️ Developing **DocuRx**, a prescription web app with customizable templates 
-- 🌐 Building my **portfolio website** and **technical blog** to share projects and write-ups
-- 📚 Studying **Operating System**, **Advanced Programming in java**, and **Algorithms**
+
+* 👨‍⚕️ Developing **DocuRx**, a prescription management web app with customizable templates
+* 📱 Building **CampusLoop** — a mobile application for student communication & campus activity engagement
+
+  * 🔗 GitHub: [https://github.com/The-Billion-Dollar-Company/Campusloop-Project](https://github.com/The-Billion-Dollar-Company/Campusloop-Project)
+  * 🏢 Developed under **The Billion Dollar Company** organization
+  * 🔗 Organization: [https://github.com/The-Billion-Dollar-Company](https://github.com/The-Billion-Dollar-Company)
+  * 🌀 Following **Agile Development Methodology** with:
+
+    * Sprint planning & sprint backlog
+    * User stories & acceptance criteria
+    * Daily standups
+    * Iterative development & continuous integration
+    * Version control workflows & feature branching
+    * Demo + retrospective after every sprint cycle
+* 🌐 Building my **portfolio website** and **technical blog** to share projects and write-ups
+* 📚 Currently studying **Software Engineering**, **Artificial Intelligence**, **Distributed Database Systems**, and **Computer Networks**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### 🚀 MERN Stack
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+</div>
+
+### 📱 Mobile Development
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <p>React Native (Android)</p>
 </div>
 
 ### 🧰 Other Tools & Languages
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
 ---
 
 ## 🔭 Current Projects
 
-- 🩺 **DocuRx** – Full-stack healthcare app to manage patients and prescriptions with PDF export (Bangla + English)
-- 🌐 **Portfolio Website** – A modern React site with 3D UI and chatbot to showcase my work
+* 🩺 **DocuRx** – A full-stack healthcare app for managing patients & prescriptions with PDF export (Bangla + English)
+* 📱 **CampusLoop** – A mobile application for students to connect, share resources, join activities & engage with campus life
 
+  * 🔗 Repo: [https://github.com/The-Billion-Dollar-Company/Campusloop-Project](https://github.com/The-Billion-Dollar-Company/Campusloop-Project)
+  * 🏢 Part of **The Billion Dollar Company** organization
+  * 🌀 Developed using **Agile methodology**
+* 🌐 **Portfolio Website** – Modern React site featuring 3D UI, animations, and chatbot
 
 ---
 
 ## 🌱 Learning Journey
 
-- 💻 Enhancing **MERN stack** and real-world software design skills
-- 🤖 Exploring **AI + Node.js integration** and real-time applications
+* 💻 Enhancing **MERN & Mobile App Development** expertise
+* 🤖 Deepening knowledge in **AI + Node.js integration**
+* 🧠 Exploring **Machine Learning**, **Software Engineering**, **Distributed Databases**, and **Computer Networks**
 
 ---
 
 ## 📫 How to reach me
 
-- 📧 [Email](mailto:mehedihasanshipat4@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/)
+* 📧 Email: [mehedihasanshipat4@gmail.com](mailto:mehedihasanshipat4@gmail.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/](https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/)
+* 🏢 GitHub Organization: [https://github.com/The-Billion-Dollar-Company](https://github.com/The-Billion-Dollar-Company)
 
 ---
 
