@@ -1,7 +1,7 @@
 <!-- Hero Banner with Animated GIF -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://github.com/Shifat80/Demo-crime/blob/main/Blue%20Gradient%20Technology%20Zoom%20Virtual%20Background.png">
 </p>
 
 <h1 align="center">👋 Hi, I'm Shifat!</h1>
