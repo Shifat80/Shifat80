@@ -1,7 +1,7 @@
 <!-- Hero Banner with Animated GIF -->
 
 <p align="center">
-  <img src="https://github.com/Shifat80/Demo-crime/blob/main/afdb0b4c-40e5-4295-ac2a-d13dd183072d.png">
+  <img src="https://github.com/Shifat80/Demo-crime/blob/main/afdb0b4c-40e5-4295-ac2a-d13dd183072d%20(1).jpg">
 </p>
 
 <h1 align="center">👋 Hi, I'm Shifat!</h1>
