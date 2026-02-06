@@ -1,7 +1,7 @@
 <!-- Hero Banner -->
 
 <p align="center">
-  <img src="https://github.com/Shifat80/Shifat80/1764130826919.jpg">
+  <img src="https://github.dev/Shifat80/Shifat80/blob/main/1764130826919.jpg">
 </p>
 
 <h1 align="center">Mehedi Hasan Shifat</h1>
